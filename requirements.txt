@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+openpyxl
+requests
+pathlib
+io
+datetime
+xml.etree.ElementTree
+zoneinfo
