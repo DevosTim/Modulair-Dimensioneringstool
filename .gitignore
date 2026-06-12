@@ -218,6 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-.streamlit/config.toml
+# .streamlit/config.toml
 
 Uitvoercode.txt
